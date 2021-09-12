@@ -17,10 +17,10 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "Petit Gateau",
-      "price": "15,00",
-      "description": "A petit gâteau, is a dessert composed of a small chocolate cake with crunchy rind and mellow filling that is conventionally served hot with vanilla ice cream on a plate",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Prato diferenciado",
+      "price": "1,00",
+      "description": "Prato mt diferente Prato mt diferente Prato mt diferente Prato mt diferente ",
       "available": true,
       "id": 4
     }
