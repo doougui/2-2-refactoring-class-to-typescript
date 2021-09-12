@@ -24,12 +24,12 @@ export const ModalEditFood = ({
     <Modal isOpen={isOpen} setIsOpen={setIsOpen}>
       <Form ref={formRef} onSubmit={handleSubmit} initialData={editingFood}>
         <h1>Editar Prato</h1>
-        <Input icon="" name="image" placeholder="Cole o link aqui" />
+        <Input name="image" placeholder="Cole o link aqui" />
 
-        <Input icon="" name="name" placeholder="Ex: Moda Italiana" />
-        <Input icon="" name="price" placeholder="Ex: 19.90" />
+        <Input name="name" placeholder="Ex: Moda Italiana" />
+        <Input name="price" placeholder="Ex: 19.90" />
 
-        <Input icon="" name="description" placeholder="Descrição" />
+        <Input name="description" placeholder="Descrição" />
 
         <button type="submit" data-testid="edit-food-button">
           <div className="text">Editar Prato</div>
